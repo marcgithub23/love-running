@@ -112,6 +112,11 @@ main {
     padding: 30px;
 }
 
+#signup-form>h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+
 /* Hero section */
 #hero {
     height: 600px;
