@@ -335,6 +335,12 @@ main {
     #photos {
         column-count: 3;
     }
+
+    /* Form */
+    #signup {
+        background-position: center;
+        position: relative;
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
